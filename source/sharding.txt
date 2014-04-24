@@ -6,18 +6,18 @@ Sharding
 
 .. _sharding-background:
 
-Sharding is the process of storing data records across multiple
-machines and is MongoDB's approach to meeting the demands of data
-growth. As the size of the data increases, a single machine may not be
-sufficient to store the data nor provide an acceptable read and write
-throughput. Sharding solves the problem with horizontal scaling. With
-sharding, you add more machines to support data growth and the demands
-of read and write operations.
+   Sharding é o processo de armazenar registros através de múltiplos
+servidores e é o método do MongoDB lidar com o crescimento dos 
+dados. Com o crescimento dos dados, talvez uma única máquina 
+não seja suficiente para armazenar os dados nem prover uma eficaz
+ leitura e escrita. Sharding resolve o problema com um escalonamento 
+horizontal. Com shargin, você pode adicionar mas máquina para suportar
+o crescimento dos dados e as demandas de escrita e leitura.
 
 .. only:: (website or singlehtml)
 
-   You can download this section in PDF form as :hardlink:`Sharding
-   and MongoDB <MongoDB-sharding-guide.pdf>`.
+   Você pode fazer o download desta seção em PDF :hardlink:`Sharding
+and MongoDB <MongoDB-sharding-guide.pdf>`.
 
 .. include:: /includes/toc/dfn-list-spec-sharding-landing.rst
 
