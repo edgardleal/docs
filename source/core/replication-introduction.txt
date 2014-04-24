@@ -1,16 +1,19 @@
 .. _replication-introduction:
 
-========================
-Replication Introduction
-========================
+=======================
+Introdução a replicação
+=======================
 
 .. default-domain:: mongodb
 
-Replication is the process of synchronizing data across multiple
-servers.
+Replicação é um processo de sincronização de dados entre multiplos 
+servidores.
 
-Purpose of Replication
+Objetivo da Replicação
 ----------------------
+
+A replicação prover a redundância e incremento da disponibilidade dos dados. 
+Com múltiplas copias dos dados em diferentes servidores, a replicação protege os dados em caso da falha de um servidor. 
 
 Replication provides redundancy and increases data availability. With
 multiple copies of data on different database servers, replication
