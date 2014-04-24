@@ -1,13 +1,13 @@
-====================
-Deploy a Replica Set
-====================
+=========================
+Publicando com replicação
+=========================
 
 .. default-domain:: mongodb
 
 .. include:: /includes/introduction-deploy-replica-set.rst
 
-Requirements
-------------
+Requisitos
+----------
 
 For production deployments, you should maintain as much separation between
 members as possible by hosting the :program:`mongod`

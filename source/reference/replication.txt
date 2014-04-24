@@ -1,16 +1,16 @@
-=====================
-Replication Reference
-=====================
+========================
+Referencia de Replicação
+========================
 
 .. default-domain:: mongodb
 
-Replication Methods in the ``mongo`` Shell
+Métodos de replicação com ``mongo`` Shell
 ------------------------------------------
 
 .. include:: /includes/toc/table-method-rs.rst
 
-Replication Database Commands
------------------------------
+Comando de Replicação para Banco de dados
+-----------------------------------------
 
 .. include:: /includes/toc/table-command-replication.rst
 

@@ -1,19 +1,18 @@
 ===========
-Replication
+Replicação
 ===========
 
 .. default-domain:: mongodb
 
-A *replica set* in MongoDB is a group of :program:`mongod` processes
-that maintain the same data set. Replica sets provide redundancy and
-high availability, and are the basis for all production deployments.
-This section introduces replication in MongoDB as well as the
-components and architecture of replica sets. The section also provides
-tutorials for common tasks related to replica sets.
+Uma *replica set* em MongoDB é um grupo de processos :program:`mongod`
+que armazenam os mesmos dados. A "Repica set" prover redundancia e 
+alta disponibilidade, que é a o ambiente básico para produção.
+Esta sessão é uma introdução à replicação no MongoDB como também 
+dos componentes e arquitetura da replicação.
 
 .. only:: (website or singlehtml)
 
-   You can download this section in PDF form as :hardlink:`Replication
+   Você pode fazer o download desta sessão no formato PDF em :hardlink:`Replication
    and MongoDB <MongoDB-replication-guide.pdf>`.
 
 .. include:: /includes/toc/dfn-list-spec-replication-landing.rst

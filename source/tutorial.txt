@@ -3,8 +3,10 @@
 .. _tutorials:
 
 =================
-MongoDB Tutorials
+Tutoriais MongoDB
 =================
+
+Esta página lista os turoriais disponíveis
 
 This page lists the tutorials available
 as part of the :doc:`MongoDB Manual <contents>`. In addition to these
@@ -12,8 +14,8 @@ documents, you can refer to the introductory :doc:`MongoDB Tutorial
 </tutorial/getting-started>`. If there is a process or pattern that you
 would like to see included here, please open a :issue:`Jira Case <DOCS>`.
 
-Getting Started
----------------
+Iniciando
+---------
 
 - :doc:`/tutorial/install-mongodb-on-linux`
 - :doc:`/tutorial/install-mongodb-on-red-hat-centos-or-fedora-linux`
@@ -30,8 +32,8 @@ Getting Started
 .. _tutorials-administration:
 .. _tutorial-administration:
 
-Administration
---------------
+Administrando
+-------------
 
 Replica Sets
 ~~~~~~~~~~~~
@@ -82,8 +84,8 @@ Sharding
 - :doc:`/tutorial/schedule-backup-window-for-sharded-clusters`
 - :doc:`/tutorial/administer-shard-tags`
 
-Basic Operations
-~~~~~~~~~~~~~~~~
+Operações Básicas
+~~~~~~~~~~~~~~~~~
 
 - :doc:`/tutorial/use-database-commands`
 - :doc:`/tutorial/recover-data-following-unexpected-shutdown`
@@ -95,8 +97,8 @@ Basic Operations
 - :doc:`/tutorial/backup-with-mongodump`
 - :doc:`/tutorial/backup-with-filesystem-snapshots`
 
-Security
-~~~~~~~~
+Segurança
+~~~~~~~~~
 
 - :doc:`/tutorial/configure-linux-iptables-firewall`
 - :doc:`/tutorial/configure-windows-netsh-firewall`
@@ -115,8 +117,8 @@ Security
 .. _tutorials-development-patterns:
 .. _tutorial-development-patterns:
 
-Development Patterns
---------------------
+Padrões de Desenvolvimento
+--------------------------
 
 - :doc:`/tutorial/perform-two-phase-commits`
 - :doc:`/tutorial/isolate-sequence-of-operations`
@@ -135,8 +137,8 @@ Development Patterns
 .. _tutorials-text-search:
 .. _tutorial-text-search:
 
-Text Search Patterns
---------------------
+Padrões de Busca de Texto
+-------------------------
 
 - :doc:`/tutorial/enable-text-search`
 - :doc:`/tutorial/create-text-index-on-multiple-fields`
@@ -145,7 +147,7 @@ Text Search Patterns
 - :doc:`/tutorial/control-results-of-text-search`
 - :doc:`/tutorial/limit-number-of-items-scanned-for-text-search`
 
-Data Modeling Patterns
+Padrões de Modelagem
 ----------------------
 
 - :doc:`/tutorial/model-embedded-one-to-one-relationships-between-documents`

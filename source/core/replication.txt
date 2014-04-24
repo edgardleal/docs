@@ -1,15 +1,15 @@
-====================
-Replication Concepts
-====================
+=======================
+Conceitor de Replicação
+=======================
 
 .. default-domain:: mongodb
 
-These documents describe and provide examples of replica set
-operation, configuration, and behavior. For an overview of
-replication, see :doc:`/core/replication-introduction`. For
-documentation of the administration of replica sets, see
-:doc:`/administration/replica-sets`. The :doc:`/reference/replication`
-documents commands and operations specific to replica sets.
+Estes documentos descrevem e apresentam exemplos de 
+replicação, configuração, e comportamento. Para um resumo
+de replicação, veja:doc:`/core/replication-introduction`. 
+Para documentação sobre administração de replicação, veja
+:doc:`/administration/replica-sets`. A :doc:`/reference/replication`
+documentos comandos e operações específicos de replicação.
 
 .. include:: /includes/toc/dfn-list-spec-replication-core-landing.rst
 
